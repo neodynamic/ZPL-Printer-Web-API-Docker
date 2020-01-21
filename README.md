@@ -2,7 +2,7 @@
 
 >Convert, Preview &amp; Render raw ZPL commands to PNG, JPG, PCX, GRF &amp; PDF from Docker!
 
-**[ZPLPrinter Web API for Docker](https://www.neodynamic.com/products/zpl-printer-web-api-docker/)** allows you to **Convert, Preview and Render raw ZPL (Zebra Programming Language) commands to PNG, JPG, PCX, GRF (ASCII Hex) & PDF** from **Any Development Platform and Programming Languages (.NET, Java, PHP, Javascript, Python, Ruby, and more!)** projects.
+**[ZPLPrinter Web API for Docker](https://www.neodynamic.com/products/zpl-printer-web-api-docker/)** allows you to **Convert, Preview and Render raw ZPL (Zebra Programming Language) commands to PNG, JPG, PCX, GRF (ASCII Hex) & PDF** from **Any Development Platform and Programming Languages (.NET, Java, PHP, Javascript, Python, Ruby, and more!)**
 
 Designed by following some of the **REST** principles, **ZPLPrinter Web API for Docker** responds to a simple **[HTTP POST](https://neodynamic.com/products/zpl-printer-web-api-docker#How-to-use)** by specifying the **[ZPL commands and printer settings through a JSON object](https://neodynamic.com/products/zpl-printer-web-api-docker#The-ZPLPrintJob-Object)** in the request body, returning the output rendering in the image or document format specified through the **[Accept](https://neodynamic.com/products/zpl-printer-web-api-docker#The-Accept-Header)** header.
 
