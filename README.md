@@ -1,6 +1,23 @@
-# ZPL-Printer-Web-API-Docker
+# ZPLPrinter Web API for Docker
 
-## Supported CodePages/Encodings
+>Convert, Preview &amp; Render raw ZPL commands to PNG, JPG, PCX, GRF &amp; PDF from Docker!
+
+**[ZPLPrinter Web API for Docker](https://www.neodynamic.com/products/zpl-printer-web-api-docker/)** allows you to **Convert, Preview and Render raw ZPL (Zebra Programming Language) commands to PNG, JPG, PCX, GRF (ASCII Hex) & PDF** from **Any Development Platform and Programming Languages (.NET, Java, PHP, Javascript, Python, Ruby, and more!)** projects.
+
+Designed by following some of the **REST** principles, **ZPLPrinter Web API for Docker** responds to a simple **[HTTP POST](https://neodynamic.com/products/zpl-printer-web-api-docker#How-to-use)** by specifying the **[ZPL commands and printer settings through a JSON object](https://neodynamic.com/products/zpl-printer-web-api-docker#The-ZPLPrintJob-Object)** in the request body, returning the output rendering in the image or document format specified through the **[Accept](https://neodynamic.com/products/zpl-printer-web-api-docker#The-Accept-Header)** header.
+
+**ZPLPrinter Web API for Docker** works like a **Virtual ZPL Printer device** by parsing and processing ZPL commands (from raw or Base64 Strings) generating **high quality output** by reproducing **built-in and resident ZPL fonts** for texts and barcodes with **high accuracy**.
+
+**ZPLPrinter Web API for Docker** supports international text including **Latin, Asian and RTL languages**, most of the **ZPL barcodes, color ribbon simulation, custom Rotation** and many more features!
+
+## Help Doc
+
+[Sample code for most popular programming languages and help topics](https://neodynamic.com/products/zpl-printer-web-api-docker/#Overview)
+
+### Supported CodePages/Encodings
+
+This is the list of supported CodePages and Encodings for **[ZPLPrintJob's zplCommandsCodePage](https://neodynamic.com/products/zpl-printer-web-api-docker#The-ZPLPrintJob-Object)** property/attribute.
+
 |CodePage|Identifier/Name|
 |--------|---------------|
 |37     |IBM037                  |      
@@ -143,3 +160,13 @@
 |57011  |x-iscii-pa              |      
 |65000  |utf-7                   |      
 |65001  |utf-8                   |  
+
+
+
+## Licensing
+
+**ZPLPrinter Emulator SDK is a Commercial** product. Licensing model and prices are available [here](https://neodynamic.com/products/zpl-printer-web-api-docker/buy)
+
+## Support
+
+Tech questions are handled by [Neodynamic Dev Team](https://neodynamic/support)
