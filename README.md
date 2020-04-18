@@ -165,7 +165,7 @@ This is the list of supported CodePages and Encodings for **[ZPLPrintJob's zplCo
 
 ## Licensing
 
-**ZPLPrinter Emulator SDK is a Commercial** product. Licensing model and prices are available [here](https://neodynamic.com/products/zpl-printer-web-api-docker/buy)
+**ZPLPrinter Web API for Docker is a Commercial** product. Licensing model and prices are available [here](https://neodynamic.com/products/zpl-printer-web-api-docker/buy)
 
 ## Support
 
