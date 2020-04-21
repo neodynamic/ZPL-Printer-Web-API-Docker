@@ -10,6 +10,14 @@ Designed by following some of the **REST** principles, **ZPLPrinter Web API for 
 
 **ZPLPrinter Web API for Docker** supports international text including **Latin, Asian and RTL languages**, most of the **ZPL barcodes, color ribbon simulation, custom Rotation** and many more features!
 
+![ZPL Commands Sample 1](ZPLPRINTER-DOCKER1-sx.png)
+
+![ZPL Commands Sample 2](ZPLPRINTER-DOCKER2-sx.png)
+
+![ZPL Commands Sample 3](ZPLPRINTER-DOCKER3-sx.png)
+
+![ZPL Commands Sample 4](ZPLPRINTER-DOCKER4-sx.png)
+
 ## Help Doc
 
 [Sample code for most popular programming languages and help topics](https://neodynamic.com/products/zpl-printer-web-api-docker/#Overview)
